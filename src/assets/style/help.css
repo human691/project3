@@ -1,0 +1,194 @@
+.container {
+  width: 1110px;
+  justify-content: space-between;
+}
+
+.scroll {
+  background: #cfd4d8;
+  padding: 94px 0 100px;
+}
+
+.scroll__wrap {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.see {
+  font-family: var(--rr);
+  font-size: 50px;
+  font-weight: 400;
+  line-height: 57px;
+  color: var(--green);
+  max-width: 617px;
+  margin-bottom: 66px;
+}
+
+.card__wrap {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+}
+
+.card__text {
+  padding-top: 40px;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+.ceo {
+  font-family: var(--rr);
+  font-size: 26px;
+  font-weight: 400;
+  line-height: 30px;
+  color: #e5e8eb;
+  max-width: 184px;
+  margin-bottom: 19px;
+}
+
+.my {
+  font-family: var(--rr);
+  font-size: 17px;
+  font-weight: 400;
+  line-height: 30px;
+  color: #e5e8eb;
+  max-width: 238px;
+  margin-bottom: 191px;
+}
+
+.card__two {
+  height: 524px;
+  width: 340px;
+  background: #e5e8eb;
+}
+
+.de {
+  font-family: var(--rr);
+  font-size: 26px;
+  font-weight: 400;
+  line-height: 30px;
+  color: var(--green);
+  margin-bottom: 19px;
+}
+
+.to {
+  font-family: var(--rr);
+  font-size: 17px;
+  font-weight: 400;
+  line-height: 30px;
+  color: var(--green);
+  max-width: 222px;
+  margin-bottom: 259px;
+}
+
+.right {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-end;
+}
+
+.dir3 {
+  font-family: var(--rr);
+  font-size: 26px;
+  font-weight: 400;
+  line-height: 30px;
+  color: var(--green);
+  max-width: 247px;
+  margin-bottom: 19px;
+}
+
+.dir5 {
+  font-family: var(--rr);
+  font-size: 26px;
+  font-weight: 400;
+  line-height: 30px;
+  color: #e5e8eb;
+  max-width: 247px;
+  margin-bottom: 19px;
+}
+
+.dir6 {
+  font-family: var(--rr);
+  font-size: 26px;
+  font-weight: 400;
+  line-height: 30px;
+  color: #e5e8eb;
+  max-width: 247px;
+  margin-bottom: 19px;
+}
+
+.card__one {
+  background: #134a45;
+  height: 524px;
+  width: 340px;
+}
+
+.card__three {
+  background: #96c9e9;
+  height: 524px;
+  width: 340px;
+}
+.card__five {
+  background: var(--violet);
+  height: 524px;
+  width: 340px;
+}
+.card__six {
+  background: var(--bijv);
+  height: 524px;
+  width: 340px;
+}
+
+.and3 {
+  font-family: var(--rr);
+  font-size: 11px;
+  font-weight: 400;
+  line-height: 30px;
+  color: var(--green);
+  margin-bottom: 289px;
+}
+
+.and5 {
+  font-family: var(--rr);
+  font-size: 11px;
+  font-weight: 400;
+  line-height: 30px;
+  color: #e5e8eb;
+  margin-bottom: 289px;
+}
+
+.and6 {
+  font-family: var(--rr);
+  font-size: 11px;
+  font-weight: 400;
+  line-height: 30px;
+  color: #e5e8eb;
+  margin-bottom: 289px;
+}
+
+.card__four {
+  height: 524px;
+  width: 340px;
+  background: #b961cd;
+}
+
+.lead {
+  font-family: var(--rr);
+  font-size: 26px;
+  font-weight: 400;
+  line-height: 30px;
+  letter-spacing: 0em;
+  color: #e5e8eb;
+  max-width: 209px;
+  margin-bottom: 19px;
+}
+
+.with {
+  font-family: var(--rr);
+  font-size: 17px;
+  font-weight: 400;
+  line-height: 30px;
+  max-width: 237px;
+  color: #e5e8eb;
+}

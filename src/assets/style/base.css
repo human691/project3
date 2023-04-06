@@ -1,0 +1,27 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
+}
+
+body {
+  font-family: var(--rr);
+}
+
+:root {
+  --rr: "RR", sans-serif;
+  --green: #134a45;
+  --blue: #96c9e9;
+  --purple: #b961cd;
+  --bijv: #746F6B;
+  --violet: #453549;
+}
+
+.container {
+  max-width: 1140px;
+  padding: 0 15px;
+  margin: 0 auto;
+  width: 100%;
+}

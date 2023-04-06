@@ -1,0 +1,25 @@
+@media screen and (max-width: 1200px) {
+}
+
+@media screen and (max-width: 375px) {
+  .header {
+    padding: 0 15px;
+  }
+
+  .header__cap {
+    max-width: 368px;
+    flex-wrap: wrap;
+  }
+
+  .menu__link {
+    display: none;
+    padding-right: 20px;
+  }
+
+  .health {
+    font-size: 15px;
+    padding: 37px;
+    font-weight: 200;
+  }
+  
+}

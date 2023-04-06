@@ -1,0 +1,15 @@
+.about__start {
+    color: #134A45;
+    text-align: center;
+    margin-top: 55px;
+    margin-bottom: 50px;
+}
+
+.pay {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    margin-right: 650px;
+    margin-bottom: 50px;
+    gap: 50px;
+}
