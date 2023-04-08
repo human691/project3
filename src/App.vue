@@ -1,10 +1,9 @@
 <template>
-  <Navbar/>
+  <Header/>
   <Banner/>
   <Wrapper/>
   <Lang/>
   <Solution/>
-  
   <Stocks/>
   <Do/>
   <Help/>
@@ -17,7 +16,7 @@
 </template>
 
 <script>
-import Navbar from './components/Navbar.vue'
+import Header from './components/Header.vue'
 import Banner from './components/Banner.vue'
 import Wrapper from './components/Wrapper.vue'
 import Lang from './components/Lang.vue'
@@ -33,7 +32,7 @@ import Footer from './components/Footer.vue'
 export default {
   name: 'App',
   components: {
-    Navbar,
+    Header,
     Banner,
     Wrapper,
     Lang,

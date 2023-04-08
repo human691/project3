@@ -16,47 +16,117 @@
       </div>
       <div class="footer__border"></div>
       
-      <img src="../assets/img/Group1.png" alt="" class="inner">
-      <!-- <div class="inner">
-        <div class="inner__care">
-          <div class="care">Powering culturally competent care at scale.</div>
-          <div class="date">© 2022 Violet Services, Inc.</div>
-        </div>
+    
+      <footer class="footer">
+      <div class="footer__green">
+        
+        <div class="container">
+          <div class="footer__wrap">
+            
+            
+          </div>
+          <div class="greens__line"></div>
 
-        <div class="inner__footer">
-          <div class="inner__footer1">
-            <h3 class="do">What we do</h3>
-            <ul class="inner__list">
-              <li class="inner__link">Credentialing</li>
-              <li class="inner__link">Upskilling</li>
-              <li class="inner__link">Customers</li>
-              <li class="inner__link">Log In</li>
-            </ul>
-          </div>
-          <div class="inner__footer2">
-            <h3 class="do">About us</h3>
-            <ul class="inner__list">
-              <li class="inner__link">Our mission</li>
-              <li class="inner__link">Our team</li>
-              <li class="inner__link">Our educators</li>
-              <li class="inner__link">Careers</li>
-              <li class="inner__link">Blog</li>
-              <li class="inner__link">Newsletter</li>
-            </ul>
-          </div>
-          <div class="inner__footer3">
-            <h3 class="do">Contact</h3>
-            <ul class="inner__list">
-              <li class="inner__link">Press</li>
-              <li class="inner__link">Contact</li>
-              <li class="inner__link">Privacy</li>
-              <li class="inner__link">Terms of service</li>
-            </ul>
+          <div class="footer__green-line">
+            <div class="footer__green-wrap">
+              <div class="footer__text-wrap">
+                <div>
+                  <p class="power">
+                    Powering culturally competent care at scale.
+                  </p>
+                </div>
+                <div class="footer__menu-all">
+                  <div class="footer__menu">
+                    <div class="footer__logo">
+                      <ul class="footer__logo">
+                        <li>
+                          <a href="#">
+                             <img src="../assets/img/in.png" /> 
+                          </a>
+                        </li>
+                        <li>
+                          <a href="#">
+                             <img src="../assets/img/twitter.png" /> 
+                          </a>
+                        </li>
+                      </ul>
+                    </div>
+
+
+                    <div class="footer__menu-one">
+                      <p class="footer__text-menu">What we do</p>
+                      <ul class="footer__menu-list">
+                        <li>
+                          <a href="#" class="footer__link">Credentialing</a>
+                        </li>
+                        <li>
+                          <a href="#" class="footer__link">Upskilling</a>
+                        </li>
+                        <li>
+                          <a href="#" class="footer__link">Customers</a>
+                        </li>
+                        <li>
+                          <a href="#" class="footer__link">Log In</a>
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+
+                  <div class="footer__menu-one">
+                    <p class="footer__text-menu">About us</p>
+                    <ul>
+                      <li>
+                        <a href="#" class="footer__link">Our mission</a>
+                      </li>
+                      <li>
+                        <a href="#" class="footer__link">Our team</a>
+                      </li>
+                      <li>
+                        <a href="#" class="footer__link">Our educators</a>
+                      </li>
+                      <li>
+                        <a href="#" class="footer__link">Careers</a>
+                      </li>
+                      <li>
+                        <a href="#" class="footer__link">Blog</a>
+                      </li>
+                      <li>
+                        <a href="#" class="footer__link">Newsletter</a>
+                      </li>
+                    </ul>
+                  </div>
+
+                  <div class="footer__menu-one">
+                    <p class="footer__text-menu">Contact</p>
+                    <ul>
+                      <li>
+                        <a href="#" class="footer__link">Press</a>
+                      </li>
+                      <li>
+                        <a href="#" class="footer__link">Contact</a>
+                      </li>
+                      <li>
+                        <a href="#" class="footer__link">Privacy</a>
+                      </li>
+                      <li>
+                        <a href="#" class="footer__link">Terms of service</a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+              <div>
+                <p class="footer__inc">© 2022 Violet Services, Inc.</p>
+              </div>
+            </div>
           </div>
         </div>
-      </div> -->
+      </div>
+
+
+    </footer>
+      </div> 
     </div>
-  </div>
 </template>
 
 <script>
